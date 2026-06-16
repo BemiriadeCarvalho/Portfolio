@@ -7,7 +7,7 @@ Website de portfólio pessoal construído com **TanStack Start + React + TypeScr
 ```
 src/
 ├── assets/
-│   └── profile.jpg              ← Foto de perfil (substitui este ficheiro)
+│   └── profile.jpg              ← Foto de perfil (substitui este ficheiro).
 │
 ├── content/
 │   └── portfolio.ts             ← ⭐ TODO o conteúdo editável vive aqui
