@@ -2,7 +2,7 @@
 
 Website de portfólio pessoal construído com **TanStack Start + React + TypeScript + Tailwind CSS**.
 
-## 🗂️ Estrutura do projeto
+## 🗂️ Estrutura do projeto do portfolio
 
 ```
 src/
